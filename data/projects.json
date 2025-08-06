@@ -68,5 +68,47 @@
         "img": "https://chihiro-203.github.io/front-end-projects/10-profile-card/resources/demo.gif",
         "source": "https://github.com/chihiro-203/front-end-projects/tree/main/10-profile-card",
         "demo": "https://chihiro-203.github.io/front-end-projects/10-profile-card"
+    },
+    {
+        "title": "Blog",
+        "description": "",
+        "img": "https://chihiro-203.github.io/front-end-projects/11-blog/resources/demo.gif",
+        "source": "https://github.com/chihiro-203/front-end-projects/tree/main/11-blog",
+        "demo": "https://chihiro-203.github.io/front-end-projects/11-blog"
+    },
+    {
+        "title": "Text To Voice",
+        "description": "",
+        "img": "https://chihiro-203.github.io/front-end-projects/12-text-to-voice/resources/demo.gif",
+        "source": "https://github.com/chihiro-203/front-end-projects/tree/main/12-text-to-voice",
+        "demo": "https://chihiro-203.github.io/front-end-projects/12-text-to-voice"
+    },
+    {
+        "title": "Product Page",
+        "description": "",
+        "img": "https://chihiro-203.github.io/front-end-projects/13-product-page/resources/demo.gif",
+        "source": "https://github.com/chihiro-203/front-end-projects/tree/main/13-product-page",
+        "demo": "https://chihiro-203.github.io/front-end-projects/13-product-page"
+    },
+    {
+        "title": "Drag And Drop",
+        "description": "",
+        "img": "https://chihiro-203.github.io/front-end-projects/14-drag-and-drop/resources/demo.gif",
+        "source": "https://github.com/chihiro-203/front-end-projects/tree/main/14-drag-and-drop",
+        "demo": "https://chihiro-203.github.io/front-end-projects/14-drag-and-drop"
+    },
+    {
+        "title": "Music Player",
+        "description": "",
+        "img": "https://chihiro-203.github.io/front-end-projects/15-music-player/resources/demo.gif",
+        "source": "https://github.com/chihiro-203/front-end-projects/tree/main/15-music-player",
+        "demo": "https://chihiro-203.github.io/front-end-projects/15-music-player"
+    },
+    {
+        "title": "QRCode Generator",
+        "description": "",
+        "img": "https://chihiro-203.github.io/front-end-projects/16-qrcode-generator/resources/demo.gif",
+        "source": "https://github.com/chihiro-203/front-end-projects/tree/main/16-qrcode-generator",
+        "demo": "https://chihiro-203.github.io/front-end-projects/16-qrcode-generator"
     }
 ]

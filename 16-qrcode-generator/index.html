@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QR Code Generator</title>
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
+    <script src="https://kit.fontawesome.com/94fe6cf1af.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/qr-code-styling@1.5.0/lib/qr-code-styling.js"></script>
+    <link rel="icon" href="https://chihiro-203.github.io/front-end-projects/data/chihiro.png" type="image/png type" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Custom QR Code Generator</h1>
+        <div class="input-group">
+            <input type="text" id="text" placeholder="Enter text or URL" />
+            <button onclick="generateQRCode()">Generate</button>
+        </div>
+        <div id="qr-code"></div>
+    </div>
+</body>
+
+</html>
