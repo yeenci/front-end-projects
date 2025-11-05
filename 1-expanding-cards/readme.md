@@ -14,4 +14,4 @@
     - To present content in a visually appealing and interactive way. 
     - This allows users to engage with the information presented on the card by expanding and collapsing it with a click or hover action, enhancing user experience and engagement on a webpage.
 
-4. **Link Demo**: [expanding-cards](https://chihiro-203.github.io/front-end-projects/1-expanding-cards/)
+4. **Link Demo**: [expanding-cards](https://yeenci.github.io/front-end-projects/1-expanding-cards/)
