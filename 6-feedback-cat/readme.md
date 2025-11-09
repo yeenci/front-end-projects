@@ -14,4 +14,4 @@
     - To create an engaging and user-friendly feedback system that allows users to express their satisfaction level with ease and provides personalized responses based on their input.
     - To encourage user interaction and improve service quality by acknowledging and addressing feedback in a thoughtful manner.
 
-4. **Link Demo**: [feedback-cat](https://chihiro-203.github.io/front-end-projects/6-feedback-cat/)
+4. **Link Demo**: [feedback-cat](https://yeenci.github.io/front-end-projects/6-feedback-cat/)

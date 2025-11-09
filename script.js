@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   loading.style.display = "block";
   projects.style.display = "none";
 
-  fetch("https://chihiro-203.github.io/front-end-projects/data/projects.json")
+  fetch("https://yeenci.github.io/front-end-projects/data/projects.json")
     .then((response) => response.json())
     .then((data) => {
       projects.innerHTML = "";

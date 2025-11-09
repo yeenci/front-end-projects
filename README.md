@@ -6,7 +6,7 @@ I undertake these projects because I want to further enhance my skills to become
 
 For each project, I include a short description and a live demo.
 
-Web of this project: [Frontend Projects](https://chihiro-203.github.io/front-end-projects/)
+Web of this project: [Frontend Projects](https://yeenci.github.io/front-end-projects/)
 
 ## Projects
 - [Expanding Cards](https://github.com/nguyenthiyenchi/50-projects-50-days/blob/main/1-expanding-cards/readme.md)

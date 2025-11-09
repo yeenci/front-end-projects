@@ -1,9 +1,9 @@
 [Return to README.md](https://github.com/nguyenthiyenchi/front-end-projects/blob/main/README.md)
 
-## QRCode Generator
+## Blog
 1. **Project Demo:**
 
-![QRCode Generator](./resources/demo.gif)
+![Blog](./resources/demo.gif)
 
 2. **Description:** 
     - 
@@ -11,4 +11,4 @@
 3. **Purpose:** 
     - 
 
-4. **Link Demo**: [qrcode-generator](https://yeenci.github.io/front-end-projects/16-qrcode-generator/)
+4. **Link Demo**: [blog](https://yeenci.github.io/front-end-projects/11-blog/)

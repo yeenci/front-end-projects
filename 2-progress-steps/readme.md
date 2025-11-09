@@ -14,4 +14,4 @@
     - To visually guide users through a multi-step process, helping them track their progress and understand their current position in a sequence of tasks or actions.
     - To enhance user experience by providing clear navigation and feedback, improving usability and completion rates.
 
-4. **Link Demo**: [progress-steps](https://chihiro-203.github.io/front-end-projects/2-progress-steps/)
+4. **Link Demo**: [progress-steps](https://yeenci.github.io/front-end-projects/2-progress-steps/)

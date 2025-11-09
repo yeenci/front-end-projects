@@ -15,4 +15,4 @@
     - To create a user-friendly note-taking interface that allows easy management of notes with intuitive controls for adding, modifying, and deleting notes.
     - To offer a clear and organized display of notes, with the added functionality of bulk deletion to streamline user interaction.
 
-4. **Link Demo**: [note-app](https://chihiro-203.github.io/front-end-projects/4-note-app/)
+4. **Link Demo**: [note-app](https://yeenci.github.io/front-end-projects/4-note-app/)
